@@ -1,4 +1,4 @@
-module protos
+module auth-protos
 
 go 1.23.0
 
