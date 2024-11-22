@@ -1,4 +1,4 @@
-module auth-protos
+module github.com/baneb1ade/auth-protos
 
 go 1.23.0
 
